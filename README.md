@@ -10,7 +10,7 @@ In this tutorial, we are dealing with account lockouts, observing logs, enabling
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Microsoft Remote Desktop
-- 
+- Active Directory Domain Services
 - 
 
 <h2>Operating Systems Used </h2>
