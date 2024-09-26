@@ -8,10 +8,10 @@ In this tutorial, we are dealing with account lockouts, observing logs, enabling
 
 <h2>Environments and Technologies Used</h2>
 
+- MacBook Pro
 - Microsoft Azure (Virtual Machines/Compute)
 - Microsoft Remote Desktop
 - Active Directory Domain Services
-- 
 
 <h2>Operating Systems Used </h2>
 
