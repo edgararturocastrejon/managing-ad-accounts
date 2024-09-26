@@ -16,7 +16,7 @@ In this tutorial, we are dealing with account lockouts, observing logs, enabling
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows Server 2022
 
 <h2>High-Level Steps</h2>
 
