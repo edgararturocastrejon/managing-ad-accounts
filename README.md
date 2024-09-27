@@ -135,12 +135,15 @@ Go back to DC-1, head to Active Directory Users and Computers <p/>
 ![Screen Shot 2024-09-27 at 10 44 19 AM](https://github.com/user-attachments/assets/53eeaac2-77af-4555-ad5a-3c3214cab9c0)
 ![Screen Shot 2024-09-27 at 10 39 46 AM](https://github.com/user-attachments/assets/cd2e752f-eca6-4013-97fa-e3c172139f29)
 ![Screen Shot 2024-09-27 at 11 53 24 AM](https://github.com/user-attachments/assets/2b83c868-b066-4120-8c6c-5af603f28b0a)
+![Screen Shot 2024-09-27 at 11 58 43 AM](https://github.com/user-attachments/assets/f34f29fc-4aa1-4f6c-89f5-24b597c96345)
 
 </p>
 <p>
 To Enable account, go back to DC-1, head to Active Directory Users and Computers <p/>
     Right click mydomain.com, click on Find... to search for user we Disabled
-  <p> Right click on user -> Enable Account -> Ok</p>
+  <p> Right click on user -> Enable Account -> Ok </p>
+  <p> Successfully log back in to Client-1 </p>
+  
 </p>
 <br />
 
