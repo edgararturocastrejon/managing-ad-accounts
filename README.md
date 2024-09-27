@@ -29,7 +29,8 @@ In this tutorial, we are dealing with account lockouts, observing logs, enabling
 
 <p>  
   
-![Screen Shot 2024-09-26 at 7 29 41 PM](https://github.com/user-attachments/assets/4a167838-ff5a-4f5f-bcd7-9fbfb1819636)
+![Screen Shot 2024-09-26 at 9 38 33 PM](https://github.com/user-attachments/assets/9e3628d9-3555-4350-a935-98f8e1d4e4f0)
+
 
 </p>
 <p>
