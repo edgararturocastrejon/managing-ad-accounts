@@ -24,6 +24,8 @@ In this tutorial, we are dealing with account lockouts, observing logs, enabling
 - Configure Group Policy to Lockout the account after 5 attempts:
 - Pick a random user account you created previously
 - Attempt to log in with it 6 times with a bad password as Client-1
+- Lockout account
+- Unlock account
 
 <h2>Actions and Observations</h2>
 
@@ -74,19 +76,30 @@ Configure Group Policy to Lockout the account <p/>
   
 ![Screen Shot 2024-09-27 at 10 44 19 AM](https://github.com/user-attachments/assets/53eeaac2-77af-4555-ad5a-3c3214cab9c0)
 ![Screen Shot 2024-09-27 at 10 39 46 AM](https://github.com/user-attachments/assets/cd2e752f-eca6-4013-97fa-e3c172139f29)
+![Screen Shot 2024-09-27 at 10 52 49 AM](https://github.com/user-attachments/assets/a09d5abe-3790-411a-a004-f9f59b646372)
 
 </p>
 <p>
 Go back to DC-1, head to Active Directory Users and Computers <p/>
+    Right click mydomain.com, click on Find... to search for user we locked out
+  <p> Double click on user, click on Account, check off the unlock users account, press apply  </p>
+        We unlocked the account!
   
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screen Shot 2024-09-27 at 11 04 36 AM](https://github.com/user-attachments/assets/e78e281d-613c-4076-87c2-bb06e40e9312)
+![Screen Shot 2024-09-27 at 11 04 45 AM](https://github.com/user-attachments/assets/3300fa05-dce6-4709-99ea-6cce4eba1e7c)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Client-1 and loggin to user <p/>
+  We successfully unlocked account!
+  <p>------------------------------------------ <p/>
+<p> Next, we will Enable and Disable accounts </p>
+  
 </p>
 <br />
 
