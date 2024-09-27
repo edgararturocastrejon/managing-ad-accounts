@@ -119,18 +119,28 @@ Go back to DC-1, head to Active Directory Users and Computers <p/>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-09-27 at 11 44 36 AM](https://github.com/user-attachments/assets/b5efe220-45ab-4908-ba46-df39d588dc97)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Logoff from Client-1, try to log back as the same user 
+  <p> The account is disabled! </p>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-09-27 at 10 44 19 AM](https://github.com/user-attachments/assets/53eeaac2-77af-4555-ad5a-3c3214cab9c0)
+![Screen Shot 2024-09-27 at 10 39 46 AM](https://github.com/user-attachments/assets/cd2e752f-eca6-4013-97fa-e3c172139f29)
+![Screen Shot 2024-09-27 at 11 53 24 AM](https://github.com/user-attachments/assets/2b83c868-b066-4120-8c6c-5af603f28b0a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To Enable account, go back to DC-1, head to Active Directory Users and Computers <p/>
+    Right click mydomain.com, click on Find... to search for user we Disabled
+  <p> Right click on user -> Enable Account -> Ok</p>
 </p>
 <br />
 
