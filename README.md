@@ -23,20 +23,30 @@ In this tutorial, we are dealing with account lockouts, observing logs, enabling
 - Log into DC-1 as Admin
 - Configure Group Policy to Lockout the account after 5 attempts:
 - Pick a random user account you created previously
-- Attempt to log in with it 5 times with a bad password as Client-1
+- Attempt to log in with it 6 times with a bad password as Client-1
 
 <h2>Actions and Observations</h2>
 
-<p>
+<p>  
   
-![Screen Shot 2024-09-26 at 7 04 19 PM](https://github.com/user-attachments/assets/6a54fb76-a185-4802-9023-7dcaa11a31f0)
-![Screen Shot 2024-09-26 at 7 05 12 PM](https://github.com/user-attachments/assets/ed9e896a-5971-4739-a294-153d69637865)
-![Screen Shot 2024-09-26 at 7 09 49 PM](https://github.com/user-attachments/assets/0d3a9d23-91bc-4dba-a7a2-8d54124b7fcf)
+![Screen Shot 2024-09-26 at 7 29 41 PM](https://github.com/user-attachments/assets/4a167838-ff5a-4f5f-bcd7-9fbfb1819636)
 
 </p>
 <p>
-Get logged into dc-1 </p>
-Pick a random user account you created previously
+Get logged into dc-1 
+  
+</p>
+<br />
+
+<p>
+  
+![![Screen Shot 2024-09-26 at 7 36 33 PM](https://github.com/user-attachments/assets/bd768f83-8eda-4782-b594-e8bc18a12c18)
+![Screen Shot 2024-09-26 at 7 40 50 PM](https://github.com/user-attachments/assets/a2d3afc9-4cc0-43ec-95b6-9276fe964344)
+
+
+</p>
+<p>
+Configure Group Policy to Lockout the account after 5 attempts:
 </p>
 <br />
 
@@ -48,6 +58,38 @@ Pick a random user account you created previously
 </p>
 <p>
 Attempt to log in with it 10 times with a bad password
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
