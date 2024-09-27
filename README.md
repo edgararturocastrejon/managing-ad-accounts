@@ -40,7 +40,7 @@ Get logged into dc-1
 
 <p>
   
-![![Screen Shot 2024-09-26 at 7 36 33 PM](https://github.com/user-attachments/assets/bd768f83-8eda-4782-b594-e8bc18a12c18)
+![Screen Shot 2024-09-26 at 7 36 33 PM](https://github.com/user-attachments/assets/bd768f83-8eda-4782-b594-e8bc18a12c18)
 ![Screen Shot 2024-09-26 at 7 40 50 PM](https://github.com/user-attachments/assets/a2d3afc9-4cc0-43ec-95b6-9276fe964344)
 
 
