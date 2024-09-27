@@ -20,10 +20,9 @@ In this tutorial, we are dealing with account lockouts, observing logs, enabling
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Log into DC-1 as Admin
+- Pick a random user account you created previously
+- Attempt to log in with it 10 times with a bad password as Client-1
 
 <h2>Actions and Observations</h2>
 
