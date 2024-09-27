@@ -21,8 +21,9 @@ In this tutorial, we are dealing with account lockouts, observing logs, enabling
 <h2>High-Level Steps</h2>
 
 - Log into DC-1 as Admin
+- Configure Group Policy to Lockout the account after 5 attempts:
 - Pick a random user account you created previously
-- Attempt to log in with it 10 times with a bad password as Client-1
+- Attempt to log in with it 5 times with a bad password as Client-1
 
 <h2>Actions and Observations</h2>
 
@@ -40,10 +41,13 @@ Pick a random user account you created previously
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-09-26 at 7 18 35 PM](https://github.com/user-attachments/assets/23752d5f-1bb9-4459-ab59-684d1a737037)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Attempt to log in with it 10 times with a bad password
 </p>
 <br />
 
