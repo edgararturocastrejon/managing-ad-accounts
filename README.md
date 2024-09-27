@@ -164,6 +164,6 @@ To Enable account, go back to DC-1, head to Active Directory Users and Computers
 Go back to DC-1, head to Active Directory Users and Computers <p/>
     Right click mydomain.com, click on Find... to search for the same user 
   <p> Right click on user -> Resset Password -> OK </p>
-  We succefully resetpassword!
+  We succefully reset the password!
 </p>
 <br />
