@@ -4,7 +4,7 @@
 
 <h1>Enabling and Unlocking Accounts and Resetting Passwords</h1>
 In this tutorial, we are dealing with account lockouts, enabling and disabling accounts in Microsoft Active Directory. <p/>
-This is a continuation of the <a href= "https://github.com/edgararturocastrejon/configure-ad project">Configuring On-premises Active Directory within Azure VMs </a> project.
+<p> This is a continuation of the <a href= "https://github.com/edgararturocastrejon/configure-ad project">Configuring On-premises Active Directory within Azure VMs </a> project.
 
 <br />
 
